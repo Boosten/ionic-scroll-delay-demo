@@ -1,0 +1,7 @@
+{
+  "name": "ionic-scroll-delay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
